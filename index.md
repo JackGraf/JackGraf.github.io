@@ -1,3 +1,7 @@
+---
+title: Welcome to Jack's homepage!
+---
+
 ## Welcome to Jack's homepage!
 
 I want to learn how to make and host a website! Hopefully I can learn how to use Git at the same time too　＼(^_^)／
