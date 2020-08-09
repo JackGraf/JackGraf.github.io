@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Welcome to Jack's homepage!
+tagline: Jack Graf personal website
+description: Jack Graf's personal website
 ---
 
 ## Welcome to Jack's homepage!
